@@ -1,6 +1,6 @@
-Projet d'Éléments logiciels pour le traitement des données massives : Descente par coordonnée distribuée pour la Régression Logistique avec pénalisation L1
+# Projet d'éléments logiciels pour le traitement des données massives : Descente par coordonnée distribuée pour la Régression Logistique avec pénalisation L1
 
-Ceci est le dossier contenant le code du projet de Christos Katsoulakis et Eric Lavergne.
+Ceci est le repo contenant le code du projet de Christos Katsoulakis et Eric Lavergne.
 
 Il contient les scripts suivants : 
 <ul>
@@ -13,5 +13,3 @@ Il contient les scripts suivants :
 </ul>
 
 Ces différents scripts sont mis en oeuvre dans le notebooks Demo_principal_distribue.ipynb qui produit un jeu de données artificielles puis exécute et compare les différentes implémentations de l'algorithme d-GLMNET. Nous avons également  le notebook Demo_annexe_non_distribue.ipynb qui met en oeuvre et compare les algorithmes d'optimisation non distribués.
-
-Les fichiers html correspondants sont également disponibles pour une simple visualisation des notebooks.
