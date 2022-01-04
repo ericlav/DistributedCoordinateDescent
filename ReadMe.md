@@ -1,4 +1,4 @@
-# Projet d'éléments logiciels pour le traitement des données massives : Descente par coordonnée distribuée pour la Régression Logistique avec pénalisation L1
+# Descente par coordonnée distribuée pour la Régression Logistique avec pénalisation L1
 
 Ceci est le repo contenant le code du projet de Christos Katsoulakis et Eric Lavergne.
 
